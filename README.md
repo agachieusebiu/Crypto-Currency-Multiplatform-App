@@ -84,6 +84,11 @@ This repository contains a Compose Multiplatform application showcasing a simple
 - Automated UI verification using Compose tests in `composeApp/src/commonTest`
 - Generated resources consumed in shared code
 - Scalable and maintainable codebase
+- Proper handling of light / dark mode
+
+## 🏞️ Screenshots from both platforms
+
+<img width="270" height="585" alt="android_1" src="https://github.com/user-attachments/assets/c9d15de6-391a-4859-95c0-d5f7772a8ad5" /> <img width="270" height="585" alt="android_2" src="https://github.com/user-attachments/assets/fefd4710-406b-433d-a1dd-20b0213be62c" /> <img width="270" height="585" alt="android_3" src="https://github.com/user-attachments/assets/229a4c90-1911-435f-aabd-f667d4171a30" /> <img width="270" height="585" alt="ios_1" src="https://github.com/user-attachments/assets/52b7079d-77e4-4191-b90c-8d94b80b615e" /> <img width="270" height="585" alt="ios_2" src="https://github.com/user-attachments/assets/48643417-0fa6-43ed-b744-9c25873321d2" /> <img width="270" height="585" alt="ios_3" src="https://github.com/user-attachments/assets/f366319b-9856-4353-a7ea-d20f4ce7e13a" />
 
 ## 🧰 How to Run
 
